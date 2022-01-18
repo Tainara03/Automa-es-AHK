@@ -1,1 +1,1 @@
-# Automa-es-AHK
+# Automações-AHK
