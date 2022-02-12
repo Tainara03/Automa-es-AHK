@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-      <img src="/Demonstações/ahk.png" width="300" height="250">
+      <img src="/Demonstações/ahk.png" width="400" height="350">
       <h3 align="center"> Automações - AutoHotkey</h3>
 <p align="center">
 
@@ -14,10 +14,10 @@ Foi no trabalho que um bom amigo me apresentou a essa fantástica ferramenta, e 
 ## :pushpin: Objetivo
 Venho com o intuito de preencher o meu GitHub, além de compartilhar conhecimentos e interagir com outras pessoas enquanto me divirto com AHK!
 
-## :wrench: Scripts e Demonstrações
+## :wrench: Automações
 
-* [SCRIPTS](https://github.com/Tainara03/Automacoes-AHK/tree/main/Demonstra%C3%A7%C3%B5es)
 * [DEMONSTRAÇÕES](https://github.com/Tainara03/Automacoes-AHK/tree/main/Demonstra%C3%A7%C3%B5es)
+* [SCRIPTS](https://github.com/Tainara03/Automacoes-AHK/tree/main/Scripts)
 
 <br>
 
