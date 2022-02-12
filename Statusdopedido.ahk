@@ -2,7 +2,7 @@
 ;fiz essa pequena mágica para me ajudar no trabalho
 ;como lá na empresa a demanda é alta, e são muitos trabalhos manuais e repetitivos
 ;sempre tem alguém automatizando algo, e eu não ia ficar de fora dessa, né? haha
-;bom, como não tem como vocês testarem, pois é bem específico, fiz uma pequena gravação para demonstrar. A partir do momento que eu saio do excel, eu aperto ALT + C, e então só assisto a mágica acontecer
+;bom, como não tem como vocês testarem pois é bem específico para o que eu precisava, fiz uma pequena gravação para demonstrar (pasta "Demonstrações" do repositório "AUTOMACOES-AHK"). A partir do momento que eu saio do excel, eu aperto ALT + C, e então só assisto a mágica acontecer
 ;lembrando que este programa estava ajustado apenas para os 4 pedidos exemplo que utilizei
 ;até a próxima!
 
