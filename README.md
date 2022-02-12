@@ -1,1 +1,24 @@
-# Automações-AHK
+<br>
+
+<p align="center">
+      <img src="/Demonstações/ahk.png" width="300" height="250">
+      <h3 align="center"> Automações - AutoHotkey</h3>
+<p align="center">
+
+<hr>
+
+## :bulb: Motivação
+Eu procuro sempre estar por dentro de coisas que agregam a minha vida, e nesse final de 2021, o AHK caiu de paraquedas direto na minha mão
+Foi no trabalho que um bom amigo me apresentou a essa fantástica ferramenta, e no meio corporativo, onde existem diversas tarefas extremamente repetitivas e manuais, automatizá-las parece sempre uma ótima opção!
+
+## :pushpin: Objetivo
+Venho com o intuito de preencher o meu GitHub, além de compartilhar conhecimentos e interagir com outras pessoas enquanto me divirto com AHK!
+
+## :wrench: Scripts e Demonstrações
+
+* [SCRIPTS](https://github.com/Tainara03/Automacoes-AHK/tree/main/Demonstra%C3%A7%C3%B5es)
+* [DEMONSTRAÇÕES](https://github.com/Tainara03/Automacoes-AHK/tree/main/Demonstra%C3%A7%C3%B5es)
+
+<br>
+
+<h3 align="center"> Obrigada! </h3>
