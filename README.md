@@ -8,8 +8,8 @@
 <hr>
 
 ## :bulb: Motivação
-Eu procuro sempre estar por dentro de coisas que agregam a minha vida, e nesse final de 2021, o AHK caiu de paraquedas direto na minha mão
-Foi no trabalho que um bom amigo me apresentou a essa fantástica ferramenta, e no meio corporativo, onde existem diversas tarefas extremamente repetitivas e manuais, automatizá-las parece sempre uma ótima opção!
+Eu procuro sempre estar por dentro de coisas novas, que podem agregar a minha vida, e no fim de 2021, o AHK caiu de paraquedas direto na minha mão.
+Foi no trabalho que um bom amigo me apresentou essa fantástica ferramenta, e no meio corporativo, onde existem diversas tarefas extremamente repetitivas e manuais, automatizá-las parece sempre uma ótima opção!
 
 ## :pushpin: Objetivo
 Venho com o intuito de preencher o meu GitHub, além de compartilhar conhecimentos e interagir com outras pessoas enquanto me divirto com AHK!
