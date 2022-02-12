@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-      <img src="/Demonstrações/ahk.png" width="300" height="250">
+      <img src="/Demonstrações/ahk.png" width="360" height="220">
       <h3 align="center"> Automações - AutoHotkey</h3>
 <p align="center">
 
